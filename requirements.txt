@@ -1,1 +1,12 @@
-discord.py
+{
+  "name": "SonicBoom",
+  "description": "The most annoying botmever",
+  "version": "1.0.0",
+  "main": "SonicBoom.py",
+  "scripts": {
+    "start": "python SonicBoom.py"
+  },
+  "dependencies": {
+    "discord.py": "11.1.0",
+  }
+}
